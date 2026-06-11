@@ -1,1 +1,67 @@
+# ===================
+# 网络安全 & 敏感信息
+# ===================
+.env                   # 环境变量（常含数据库密码、API key）
+.env.*                 # 各类环境文件（如 .env.local .env.production）
+*.pem                  # 私钥/证书
+*.key                  # 密钥文件
+*.p12                  # 证书文件
+*.pfx
+*.jks                  # Java 密钥库
+*.keystore
+*.token                # 可能存储 token 的文件
+secret*                # 任何包含 “secret” 的文件或目录
+credentials*           # 凭证文件
+config.json            # 小心：可能含敏感配置
+config.yml
+config.yaml
+*.private.*            # 私人配置文件
+id_rsa*                # SSH 私钥
+*.bak                  # 备份文件可能包含旧敏感数据
+
+# ===================
+# 依赖与包目录
+# ===================
+node_modules/
+vendor/
+.pnpm-store/
+
+# ===================
+# 构建输出 / 编译产物
+# ===================
 /build/
+/dist/
+/out/
+/target/               # Java/Maven
+*.o                    # 对象文件
+*.so                   # 动态库
+*.dylib
+*.exe
+*.dll
+*.class
+*.jar
+*.war
+*.pyc                  # Python 字节码
+__pycache__/
+*.egg-info/
+.gradle/
+.idea/                 # IDE 配置（可能含路径信息）
+.vscode/
+*.swp
+*.swo
+*~                     # 临时文件
+
+# ===================
+# 操作系统 & 杂项
+# ===================
+.DS_Store              # macOS
+Thumbs.db              # Windows
+desktop.ini
+*.log                  # 日志文件（可能泄露内部路径）
+*.pid
+*.seed
+*.sqlite               # 数据库文件（可能含真实数据）
+*.db
+dump.rdb               # Redis 快照
+
+
