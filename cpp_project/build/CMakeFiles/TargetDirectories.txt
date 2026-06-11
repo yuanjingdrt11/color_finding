@@ -1,0 +1,4 @@
+/home/linyu/桌面/colorfind/cpp_project/build/CMakeFiles/camera_debug.dir
+/home/linyu/桌面/colorfind/cpp_project/build/CMakeFiles/photo_debug.dir
+/home/linyu/桌面/colorfind/cpp_project/build/CMakeFiles/edit_cache.dir
+/home/linyu/桌面/colorfind/cpp_project/build/CMakeFiles/rebuild_cache.dir

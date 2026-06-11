@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/camera_debug.dir/camera_debug.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/camera_debug.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/camera_debug.cpp",
+  "output": "CMakeFiles/camera_debug.dir/camera_debug.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/camera_debug.dir/src/color_shape_detector.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/color_shape_detector.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/color_shape_detector.cpp",
+  "output": "CMakeFiles/camera_debug.dir/src/color_shape_detector.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/camera_debug.dir/src/preprocessor.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/preprocessor.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/preprocessor.cpp",
+  "output": "CMakeFiles/camera_debug.dir/src/preprocessor.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/camera_debug.dir/src/color_segmenter.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/color_segmenter.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/color_segmenter.cpp",
+  "output": "CMakeFiles/camera_debug.dir/src/color_segmenter.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/camera_debug.dir/src/contour_analyzer.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/contour_analyzer.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/contour_analyzer.cpp",
+  "output": "CMakeFiles/camera_debug.dir/src/contour_analyzer.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/camera_debug.dir/src/world_coord_solver.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/world_coord_solver.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/world_coord_solver.cpp",
+  "output": "CMakeFiles/camera_debug.dir/src/world_coord_solver.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/camera_debug.dir/src/visualizer.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/visualizer.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/visualizer.cpp",
+  "output": "CMakeFiles/camera_debug.dir/src/visualizer.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/camera_debug.dir/src/exporter.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/exporter.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/exporter.cpp",
+  "output": "CMakeFiles/camera_debug.dir/src/exporter.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/photo_debug.dir/photo_debug.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/photo_debug.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/photo_debug.cpp",
+  "output": "CMakeFiles/photo_debug.dir/photo_debug.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/photo_debug.dir/src/color_shape_detector.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/color_shape_detector.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/color_shape_detector.cpp",
+  "output": "CMakeFiles/photo_debug.dir/src/color_shape_detector.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/photo_debug.dir/src/preprocessor.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/preprocessor.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/preprocessor.cpp",
+  "output": "CMakeFiles/photo_debug.dir/src/preprocessor.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/photo_debug.dir/src/color_segmenter.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/color_segmenter.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/color_segmenter.cpp",
+  "output": "CMakeFiles/photo_debug.dir/src/color_segmenter.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/photo_debug.dir/src/contour_analyzer.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/contour_analyzer.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/contour_analyzer.cpp",
+  "output": "CMakeFiles/photo_debug.dir/src/contour_analyzer.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/photo_debug.dir/src/world_coord_solver.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/world_coord_solver.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/world_coord_solver.cpp",
+  "output": "CMakeFiles/photo_debug.dir/src/world_coord_solver.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/photo_debug.dir/src/visualizer.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/visualizer.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/visualizer.cpp",
+  "output": "CMakeFiles/photo_debug.dir/src/visualizer.cpp.o"
+},
+{
+  "directory": "/home/linyu/桌面/colorfind/cpp_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -O2 -march=native -std=gnu++17 -o CMakeFiles/photo_debug.dir/src/exporter.cpp.o -c /home/linyu/桌面/colorfind/cpp_project/src/exporter.cpp",
+  "file": "/home/linyu/桌面/colorfind/cpp_project/src/exporter.cpp",
+  "output": "CMakeFiles/photo_debug.dir/src/exporter.cpp.o"
+}
+]
